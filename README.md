@@ -4,9 +4,13 @@
 
 ## **목차**
 **Part 1. 멀티플렉스, 어디까지 가봤니?**
+
 **Part 2. 멀티플렉스 선택장애에 걸렸어요! 도와주세요!**
+
 **Part 3. Quiz Quiz**
+
 **Part 4. 디큐브 vs. 타임스퀘어, 당신의 선택은?**
+
 
 
 ## **Part 1. 멀티플렉스, 어디까지 가봤니?**
@@ -150,13 +154,14 @@
 ## **마무리**
 재밌게 보셨나요?
 데이터셋이 궁금하시다면 아래의 링크를 참조하세요.
+
 [데이터셋1_복합쇼핑몰정보](https://github.com/Yoonkimove/multiplex/blob/master/shoppingmall_info_template.csv)
 
 [데이터셋2_상점분류전체](https://github.com/Yoonkimove/multiplex/blob/master/store_catogory_total.csv)
 
 [데이터셋3_Part2value집계](https://github.com/Yoonkimove/multiplex/blob/master/bar_chart.csv)
 
-  
+
 
 ### **Credit**
 시각화장인 김윤경
@@ -170,5 +175,5 @@
 지도/차트장인 채Song
 
 
-
+  
 ['멀티플렉스, 멀티라이프' 프로젝트 후기](http://oranjieunk.github.io/)
