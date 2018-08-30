@@ -23,9 +23,18 @@
 입니다!
 
 10개의 멀티플렉스의 입점 현황도 보겠습니다!
-![Alt img](images/image2_pie.png)
+저희는 모든 멀티플렉스 안의 상점들을 4개의 label로 분류해보았습니다.
 
-{% include map.html %}
+차트별로 다른 정보를 얻을 수 있는데요, 우선 Bar Chart로는 엄청난 **비중 차이**
+를 느낄 수 있습니다.
+![Bar Chart](images/image2_freqency.png)
+
+같은 데이터인데 전체 카테고리별 비중을 알 수 있습니다.
+![Bar Chart2](images/image2_freqency2.png)
+
+
+멀티플렉스 별 비중은 어떤지 볼까요?
+![Pie Chart](images/image2_pie.png)
 
 
 ## Part 2. 멀티플렉스 선택장애에 걸렸어요! 도와주세요!
@@ -38,6 +47,7 @@
 {% include map.html %}
 
 ### S양의 사연
+[S양](images/persona icon_1-01.png)
 > "친구들이랑 검증된(?) 맛집을 갈래요. 백종원 아저씨 맛집도 있으면 좋겠는데 프랜차이즈 식당을 찾아주세요."
 
 [images](images/image1.png)
