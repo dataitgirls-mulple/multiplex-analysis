@@ -23,7 +23,7 @@
 입니다!
 
 10개의 멀티플렉스의 입점 현황도 보겠습니다!
-![Alt img](_includes/image2_pie.png)
+![Alt img](images/image2_pie.png)
 
 {% include map.html %}
 
