@@ -2,8 +2,16 @@
 
 안녕하세요! 데잇걸즈의 F조 멀.플.입니다. 멀.플.은 멀티플렉스를 분석하는 멀티플레이어들이라는 뜻이랍니다. 멀.플.조는 여가시간에 놀 곳을 고민하는 여러분들을 위해 복합쇼핑몰을 데이터 분석으로 알아보았어요. 그 내용을 함께 확인해볼까요?
 
+## **목차**
+### **Part 1. 멀티플렉스, 어디까지 가봤니?**
+### **Part 2. 멀티플렉스 선택장애에 걸렸어요! 도와주세요!**
+### **Part 3. Quiz Quiz**
+### **Part 4. 디큐브 vs. 타임스퀘어, 당신의 선택은?**
+
+
 ## **Part 1. 멀티플렉스, 어디까지 가봤니?**
 저희는 10개의 복합쇼핑몰을 대상으로 분석을 진행했습니다. 복합쇼핑몰들을 데이터로 알아볼게요.
+
 
 ### **인스타그램 태그량으로 보는 쇼핑몰**
 
@@ -11,7 +19,7 @@
 **핫한 복합쇼핑몰** 은 어디일까요?
 
 {% include map1.html %}
-[소스코드 보기 - by 채송이](https://github.com/Yoonkimove/multiplex/blob/master/M3_visualize_insta_multi.ipynb)
+[소스코드 보기 - by 채Song](https://github.com/Yoonkimove/multiplex/blob/master/M3_visualize_insta_multi.ipynb)
 
 분석에 들어간 10개의 쇼핑몰은
 
@@ -27,6 +35,7 @@
 - IFC몰
 
 입니다!
+
 
 ### **입점 상점 분포**
 
@@ -58,7 +67,7 @@
 
 
 
-[소스코드 보기 - by 채송이, 김진영](https://github.com/Yoonkimove/multiplex/blob/master/shopping_category_frequncy.ipynb)
+[소스코드 보기 - by 채Song, 김진영](https://github.com/Yoonkimove/multiplex/blob/master/shopping_category_frequncy.ipynb)
 
 
 
@@ -76,6 +85,10 @@
 <img src="images/persona icon_1-01.png" style="width: 25%;"/>
 
 ![Chart2](images/image2_2.png)
+
+
+
+
 
 ### **Y양의 생각**
 <img src="images/persona icon_1-01.png" style="width: 25%;"/>
@@ -97,7 +110,7 @@
 ![Wordcloud1-1](images/wordcloud/DandB.png)
 
 ### **Q2. 이곳은 어디일까요? (Hint : 구파발)**
-![Wordcloud2](images/wordcloud/Entertainment.png)
+![Wordcloud2](images/wordcloud/wordcloud_lotteeunpyeong.png)
 정답은 롯데몰 은평입니다!
 > 엔터테인먼트 관련 태그가 가장 많이 등장한 복합쇼핑몰은 롯데몰 은평(#영화관), 스타필드 하남(#워터파크)입니다.
 
@@ -129,11 +142,15 @@
 
 ![Chart6](images/image4_3.png)
 
-[소스코드 보기 - by 채송이](https://github.com/Yoonkimove/multiplex/blob/master/M3_mall_recommendation.ipynb)
+[소스코드 보기 - by 채Song](https://github.com/Yoonkimove/multiplex/blob/master/M3_mall_recommendation.ipynb)
 
 
 ## **마무리**
 재밌게 보셨나요?
+[데이터셋1_]()
+[데이터셋2_]()
+[데이터셋3_]()
+
 
 ### **Credit**
 시각화장인 김윤경
@@ -144,7 +161,7 @@
 
 노가다장인 이은지
 
-지도/차트장인 채송이
+지도/차트장인 채Song
 
 
 
