@@ -101,7 +101,7 @@
 정답은 롯데몰 은평입니다!
 > 엔터테인먼트 관련 태그가 가장 많이 등장한 복합쇼핑몰은 롯데몰 은평(#영화관), 스타필드 하남(#워터파크)입니다.
 
-![Wordcloud2-1](images/wordcloud/wordcloud_iparkmall.png)
+![Wordcloud2-1](images/wordcloud/Entertainment.png)
 
 ### **Q3. 이곳은 어디일까요? (Hint : 컴퓨터)**
 ![Wordcloud3](images/wordcloud/wordcloud_technomart.png)
