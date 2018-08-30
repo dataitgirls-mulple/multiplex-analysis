@@ -1,13 +1,19 @@
-﻿# 멀티플렉스, 멀티라이프 \[Multiplex, Multilife!\]
+﻿# Multiplex, Multilife! \[멀티플렉스, 멀티라이프!\]
 
 안녕하세요! 데잇걸즈의 F조 멀.플.입니다. 멀.플.은 멀티플렉스를 분석하는 멀티플레이어들이라는 뜻이랍니다. 멀.플.조는 여가시간에 놀 곳을 고민하는 여러분들을 위해 복합쇼핑몰을 데이터 분석으로 알아보았어요. 그 내용을 함께 확인해볼까요?
 
 ## Part 1. 멀티플렉스, 어디까지 가봤니?
-저희는 10개의 복합쇼핑몰을 대상으로 분석을 진행했습니다.
-10개의 쇼핑몰을 **인스타 태그량** 데이터와 함께 알아볼게요.
-핫한 복합쇼핑몰은 어디일까요?
+저희는 10개의 복합쇼핑몰을 대상으로 분석을 진행했습니다. 복합쇼핑몰들을 데이터로 알아볼게요.
+
+### 인스타그램 태그량으로 보는 쇼핑몰
+
+분석에 들어간 10개의 쇼핑몰은 소개합니다! **인스타 태그량** 과 함께 지도에 나타냈습니다.
+**핫한 복합쇼핑몰** 은 어디일까요?
+
 {% include map1.html %}
-[소스코드](http://github.com/dataitgirls-m3-f)
+[소스코드](https://github.com/Yoonkimove/multiplex/blob/master/M3_visualize_insta_multi.ipynb)
+
+분석에 들어간 10개의 쇼핑몰은
 
 - 스타필드 하남
 - 스타필드 코엑스
@@ -22,53 +28,70 @@
 
 입니다!
 
-10개의 멀티플렉스의 입점 현황도 보겠습니다!
-저희는 모든 멀티플렉스 안의 상점들을 4개의 label로 분류해보았습니다.
+### 입점 현황
 
-차트별로 다른 정보를 얻을 수 있는데요, 우선 Bar Chart로는 엄청난 **비중 차이**
-를 느낄 수 있습니다.
+10개의 멀티플렉스에 어떤 가게 분류들이 있는지 보겠습니다!
+저희는 모든 멀티플렉스 안의 상점들을 4개의 label로 분류해보았어요.
+
+차트별로 다른 정보를 얻을 수 있는데요, 3개의 차트를 보여드릴게요.
+
+**카테고리를 기준으로 전체 상점 비율을 알아볼게요.**
+
 ![Bar Chart](images/image2_freqency.png)
 
-같은 데이터인데 전체 카테고리별 비중을 알 수 있습니다.
+- 테크노마트의 전자기기 매장의 개수가 엄청나죠? 엄청난 **비중 차이** 와 함께 튀는 데이터들을 더 많이 볼 수 있어요.
+- 음식점과 패션은 다들 비슷비슷하네요.
+
+
+**100% 기준 누적 가로 막대형 차트입니다.**
 ![Bar Chart2](images/image2_freqency2.png)
 
+- 위와 같은 데이터지만 전체 대비 비율을 좀 더 눈여겨 볼 수 있어요.
 
-멀티플렉스 별 비중은 어떤지 볼까요?
+
+**멀티플렉스 별 비중은 어떤지 볼까요?**
 ![Pie Chart](images/image2_pie.png)
+
+- 대부분 패션이 많은 편이네요.
+
+
+
+[소스코드](https://github.com/Yoonkimove/multiplex/blob/master/shopping_category_frequncy.ipynb)
 
 
 ## Part 2. 멀티플렉스 선택장애에 걸렸어요! 도와주세요!
 고민을 제공해준 사람들의 입맛에 맞는 멀티플렉스를 찾아볼까요?
 
 ### J양의 고민
-> "남자친구에게 옷을 사주려 해요. MUJI랑 UNICLO 같은 캐주얼한 패션 브랜드를 많이 볼 수 있는 곳은 어디에요?"
+<img src="images/persona icon_1-01.png" style="width: 25%;"/>
+
 
 [images](images/image1.png)
 {% include map.html %}
 
 ### S양의 사연
 <img src="images/persona icon_1-01.png" style="width: 25%;"/>
-> "친구들이랑 검증된(?) 맛집을 갈래요. 백종원 아저씨 맛집도 있으면 좋겠는데 프랜차이즈 식당을 찾아주세요."
 
 [images](images/image1.png)
 {% include map.html %}
 
 ### Y양의 생각
-> "명품 아이 쇼핑을 하러 가고 싶어요. 에르메스를 오랜만에 가볼까 해요. 명품 매장이 많은 곳은 어디인가요?"
+<img src="images/persona icon_1-01.png" style="width: 25%;"/>
 
 [images](images/image1.png)
 {% include map.html %}
 
-
-[Link](url) and ![명품 매장](images/image1.png)
+[소스코드](https://github.com/Yoonkimove/multiplex/blob/master/M3_visualize_data_chart.ipynb)
 
 ## Part 3. Quiz Quiz
 요즘 각각 복합쇼핑몰들은 뭘로 유명할까요? 연관검색어를 안볼 순 없겠죠?
 
+[소스코드](https://github.com/Yoonkimove/multiplex/blob/master/word%20cloud%20m3-F.ipynb)
 
 ## Part 4. 디큐브 vs. 타임스퀘어, 당신의 선택은?
 
 > 나는 신도림과 영등포 사이에서 헤매고 있다. 집에 들어가긴 아쉽고 좀 놀고 싶다.
 어딜 가야 할까?
 
-우리는
+
+[소스코드]()
