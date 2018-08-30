@@ -19,7 +19,7 @@
 입니다!
 
 10개의 멀티플렉스의 입점 현황을 볼까요?
-[멀티플렉스 입점 현황](images/image1.png)
+{% include image1.png %}
 
 **인스타 태그량으로 핫한 복합쇼핑몰을 알아볼까요?**
 {% include map.html %}
