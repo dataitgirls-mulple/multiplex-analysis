@@ -47,7 +47,7 @@
 {% include map.html %}
 
 ### S양의 사연
-<img src="images/persona icon_1-01.png" style="width: 25%; height: 50vw"/>
+<img src="images/persona icon_1-01.png" style="width: 25%;"/>
 > "친구들이랑 검증된(?) 맛집을 갈래요. 백종원 아저씨 맛집도 있으면 좋겠는데 프랜차이즈 식당을 찾아주세요."
 
 [images](images/image1.png)
