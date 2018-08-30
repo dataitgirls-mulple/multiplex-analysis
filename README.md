@@ -94,12 +94,14 @@
 
 > 식음료 태그가 가장 많이 등장한 복합쇼핑몰은 아이파크몰 용산, 스타필드 코엑스, 롯데몰 김포, 디큐브시티, 타임스퀘어, IFC몰입니다.
 
+![Wordcloud1-1](images/wordcloud/DandB.png)
 
 ### **Q2. 이곳은 어디일까요? (Hint : 구파발)**
-![Wordcloud2](images/wordcloud/wordcloud_lotteeunpyeong.png)
+![Wordcloud2](images/wordcloud/Entertainment.png)
 정답은 롯데몰 은평입니다!
 > 엔터테인먼트 관련 태그가 가장 많이 등장한 복합쇼핑몰은 롯데몰 은평(#영화관), 스타필드 하남(#워터파크)입니다.
 
+![Wordcloud2-1](images/wordcloud/wordcloud_iparkmall.png)
 
 ### **Q3. 이곳은 어디일까요? (Hint : 컴퓨터)**
 ![Wordcloud3](images/wordcloud/wordcloud_technomart.png)
@@ -133,7 +135,7 @@
 ## **마무리**
 재밌게 보셨나요?
 
-# **Credit**
+### **Credit**
 시각화장인 김윤경
 
 코딩장인 김지은
