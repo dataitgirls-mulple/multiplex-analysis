@@ -3,10 +3,10 @@
 안녕하세요! 데잇걸즈의 F조 멀.플.입니다. 멀.플.은 멀티플렉스를 분석하는 멀티플레이어들이라는 뜻이랍니다. 멀.플.조는 여가시간에 놀 곳을 고민하는 여러분들을 위해 복합쇼핑몰을 데이터 분석으로 알아보았어요. 그 내용을 함께 확인해볼까요?
 
 ## **목차**
-### **Part 1. 멀티플렉스, 어디까지 가봤니?**
-### **Part 2. 멀티플렉스 선택장애에 걸렸어요! 도와주세요!**
-### **Part 3. Quiz Quiz**
-### **Part 4. 디큐브 vs. 타임스퀘어, 당신의 선택은?**
+**Part 1. 멀티플렉스, 어디까지 가봤니?**
+**Part 2. 멀티플렉스 선택장애에 걸렸어요! 도와주세요!**
+**Part 3. Quiz Quiz**
+**Part 4. 디큐브 vs. 타임스퀘어, 당신의 선택은?**
 
 
 ## **Part 1. 멀티플렉스, 어디까지 가봤니?**
@@ -81,13 +81,12 @@
 
 ![Chart1](images/image2_1.png)
 
+
+
 ### **S양의 사연**
 <img src="images/persona icon_1-01.png" style="width: 25%;"/>
 
 ![Chart2](images/image2_2.png)
-
-
-
 
 
 ### **Y양의 생각**
@@ -96,6 +95,9 @@
 ![Chart3](images/image2_3.png)
 
 [소스코드 보기 - by 김지은](https://github.com/Yoonkimove/multiplex/blob/master/M3_visualize_data_chart.ipynb)
+
+
+
 
 ## **Part 3. Quiz Quiz**
 요즘 각각 복합쇼핑몰들은 뭘로 유명할까요? 연관검색어를 안볼 순 없겠죠?
@@ -107,14 +109,14 @@
 
 > 식음료 태그가 가장 많이 등장한 복합쇼핑몰은 아이파크몰 용산, 스타필드 코엑스, 롯데몰 김포, 디큐브시티, 타임스퀘어, IFC몰입니다.
 
-![Wordcloud1-1](images/wordcloud/DandB.png)
+![Wordcloud1-1](images/wordcloud/DandB.jpg)
 
 ### **Q2. 이곳은 어디일까요? (Hint : 구파발)**
 ![Wordcloud2](images/wordcloud/wordcloud_lotteeunpyeong.png)
 정답은 롯데몰 은평입니다!
 > 엔터테인먼트 관련 태그가 가장 많이 등장한 복합쇼핑몰은 롯데몰 은평(#영화관), 스타필드 하남(#워터파크)입니다.
 
-![Wordcloud2-1](images/wordcloud/Entertainment.png)
+![Wordcloud2-1](images/wordcloud/Entertainment.jpg)
 
 ### **Q3. 이곳은 어디일까요? (Hint : 컴퓨터)**
 ![Wordcloud3](images/wordcloud/wordcloud_technomart.png)
@@ -147,10 +149,14 @@
 
 ## **마무리**
 재밌게 보셨나요?
-[데이터셋1_]()
-[데이터셋2_]()
-[데이터셋3_]()
+데이터셋이 궁금하시다면 아래의 링크를 참조하세요.
+[데이터셋1_복합쇼핑몰정보](https://github.com/Yoonkimove/multiplex/blob/master/shoppingmall_info_template.csv)
 
+[데이터셋2_상점분류전체](https://github.com/Yoonkimove/multiplex/blob/master/store_catogory_total.csv)
+
+[데이터셋3_Part2value집계](https://github.com/Yoonkimove/multiplex/blob/master/bar_chart.csv)
+
+  
 
 ### **Credit**
 시각화장인 김윤경
