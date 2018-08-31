@@ -79,23 +79,23 @@
 고민을 제공해준 사람들의 입맛에 맞는 멀티플렉스를 찾아볼까요?
 
 ### **J양의 고민**
-<img src="images/persona icon_1-01.png" style="width: 25%;"/>
+<img src="images/persona icon_1.png" style="width: 25%;"/>  
+
+<br />
+![Chart1](images/image2_1.png)  
 
 
-![Chart1](images/image2_1.png)
-
-
-
+<br />
 ### **S양의 사연**
-<img src="images/persona icon_1-01.png" style="width: 25%;"/>
+<img src="images/persona icon_2.png" style="width: 25%;"/>  
 
-![Chart2](images/image2_2.png)
+![Chart2](images/image2_2.png)  
 
 
 ### **Y양의 생각**
-<img src="images/persona icon_1-01.png" style="width: 25%;"/>
+<img src="images/persona icon_3.png" style="width: 25%;"/>  
 
-![Chart3](images/image2_3.png)
+![Chart3](images/image2_3.png)  
 
 [소스코드 보기 - by 김지은](https://github.com/Yoonkimove/multiplex/blob/master/M3_visualize_data_chart.ipynb)
 
@@ -144,11 +144,23 @@
 어딜 가야 할까?
 
 ![Chart4](images/image4_1.png)
+- 음식점 개수는 두 매장 다 비슷한 형태  
+- 패션쪽은 디큐브시티가 타임스퀘어보다 매장 수가 2배  
+- 많은 패션 매장을 둘러보고 싶다면 디큐브시티가 더 적절  
 
+  (디큐브 시티의 패션 매장은 274개, 타임스퀘어는 101개 매장이 운영되고 있습니다.)
+
+<br />
 ![Chart5](images/image4_2.png)
 
+- 두 대형몰 모두 프랜차이즈점이 월등히 더 많음
+
+<br />
 ![Chart6](images/image4_3.png)
 
+- 타임스퀘어는 한 곳도 입점해있지 않고 디큐브시티엔 두 곳의 브랜드가 입점  
+
+<br />
 [소스코드 보기 - by 채Song](https://github.com/Yoonkimove/multiplex/blob/master/M3_mall_recommendation.ipynb)
 
 <br />
