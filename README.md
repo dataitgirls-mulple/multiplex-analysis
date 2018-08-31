@@ -2,7 +2,7 @@
 
 안녕하세요! 데잇걸즈의 F조 멀.플.입니다. 멀.플.은 멀티플렉스를 분석하는 멀티플레이어들이라는 뜻이랍니다. 멀.플.조는 여가시간에 놀 곳을 고민하는 여러분들을 위해 복합쇼핑몰을 데이터 분석으로 알아보았어요. 그 내용을 함께 확인해볼까요?
 
-![Bar Chart](images/mall.png)  
+![Mall](images/mall.png)  
 <br />
 <br />
 ## **목차**
@@ -83,14 +83,14 @@
 <img src="images/persona icon_1.png" style="width: 100%;"/>  
 
 <br />
-![Chart1](images/image2_1.png)  
+![Chart1](images/image2_2.png)  
 
 
 <br />
 ### **S양의 사연**
 <img src="images/persona icon_2.png" style="width: 100%;"/>  
 
-![Chart2](images/image2_2.png)  
+![Chart2](images/image2_1.png)  
 
 
 ### **Y양의 생각**
